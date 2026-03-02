@@ -3,7 +3,7 @@
 EX. 1
 Voltage divider
 
-![[Pasted image 20251027101629.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251027101629.png]]
 
 $I=\frac{U_{IN}}{R_{1}+R_{2}}$
 $U_{2}=I*R_{2}=U_{IN}* \frac{R_{2}}{R_{1}+R_{2}}=k*U_{IN}=\frac{U_{IN}}{n}$
@@ -22,7 +22,7 @@ check units for k
 
 EX. 2
 Voltage divider with load
-![[Pasted image 20251027103120.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251027103120.png]]
 
 $U_{2}=U_{IN} * \frac{R_{X}}{R_{1}+R_{X}} \frac{:R_{X}}{:R_{X}}=$
 $=U_{IN} \frac{1}{\frac{R_{1}}{R_{x}}+1}=$
@@ -42,7 +42,7 @@ shit is too fast to note lol
 
 EX.3
 Current divider
-![[Pasted image 20251027103923.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251027103923.png]]
 $I_{2}= f(I_{IN},R_{1},R_{2})=?$
 $U=I_{IN}*R_{X}=I_{IN} \frac{R_{1}R_{2}}{R_{1}+R_{2}}$
 $I_{2}= \frac{U}{R_{2}}= \frac{I_{IN}\frac{R_{1}R_{2}}{R_{1}+R_{2}}}{R_{2}}=$
@@ -56,7 +56,7 @@ $I_{IN}=\frac{G_{2}}{G_{1}+G_{2}}$
 
 
 ## EX.4
-![[Pasted image 20251027110353.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251027110353.png]]
 NiMH cell
 $1.2V / (2000mAh)$
 	Rated "Capacity"
@@ -99,11 +99,11 @@ b) $R_{v}=10*R$
 c) $R_{V}=2*R$
 
 Ref. case
-![[Pasted image 20251027110949.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251027110949.png]]
 $U_{2REF}=U_{IN}* \frac{R}{R+R}= \frac{U_{IN}}{2}=\underline{5V}$
 
 a)
-![[Pasted image 20251027111133.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251027111133.png]]
 Absolute error:
 $\Delta U_{V}=U_{V}-U_{2REF}=0V$
 Percentage
@@ -112,7 +112,7 @@ p%=$\frac{\Delta U_{V}}{U_{2REF}}*100\%=0\%$
 <hr>
 
 b)
-![[Pasted image 20251027112154.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251027112154.png]]
 $U_{V}=\frac{U_{IN}R^2}{R*R+R*R_{V}+R*R_{V}}=$
 $=U_{IN} \frac{R_{v}}{R+2R_{V}}$
 

@@ -38,6 +38,6 @@ $+F(X_{N-1},\dots,X_{M},1,\dots,0)X_{M-1}·\dots· \bar{X}_{0}+$
 $+\underbrace{ F(X_{N-1},\dots,X_{M,1,\dots,1}) }_{ D_{2^{M-1}} }X_{M-1}·\dots·X_{0}$
 $=D_{0}m_{0}+D_{1}m_{1}+\dots+D_{2^{m-1}}$
 
-![[IMG_20251125_101945.jpg]]
-![[IMG_20251125_101950.jpg]]
-![[IMG_20251125_101955.jpg]]
+![[git-sync/Sem1/ToLC sem1/IMG_20251125_101945.jpg]]
+![[git-sync/Sem1/ToLC sem1/IMG_20251125_101950.jpg]]
+![[git-sync/Sem1/ToLC sem1/IMG_20251125_101955.jpg]]

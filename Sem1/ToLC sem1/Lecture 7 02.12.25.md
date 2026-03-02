@@ -16,7 +16,7 @@ $$
 $m_{n}=m_{n}(x_{m-1},\dots ,x_{0})$
 $n=0,1,\dots,2^{M}-1$
 DMUX type 0
-![[DMUX_type0.jpg]]
+![[git-sync/Sem1/ToLC sem1/DMUX_type0.jpg]]
 ---
 ## DMUX-MUX structure in a single design
-![[IMG_20251202_100204.jpg]]
+![[git-sync/Sem1/ToLC sem1/IMG_20251202_100204.jpg]]

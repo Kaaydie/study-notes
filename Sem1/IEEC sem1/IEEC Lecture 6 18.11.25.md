@@ -4,7 +4,7 @@ $R_{2}=2Ω$
 $R=1Ω$
 $V_{1}=8V$
 $V_{2}=4V$
-![[Pasted image 20251118123408.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251118123408.png]]
 
 $$
 \begin{align}
@@ -49,7 +49,7 @@ U_{2}=R_{21}I_{1}+R_{22}I
 \end{cases}
 $$
 $R_{11}=\frac{U_{1}}{I_{1}} /_{I_{2}=0}$
-![[Pasted image 20251118125705.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251118125705.png]]
 
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 415.25 202.2939453125" width="415.25" height="202.2939453125"><!-- svg-source:excalidraw --><metadata></metadata><defs><style class="style-fonts">
@@ -66,7 +66,7 @@ $$
 Resitance is a subset of Impidance
 
 ---
-![[Pasted image 20251118132053.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251118132053.png]]
 $R_{11}=\frac{I_{1}(R_{1}+R_{3})}{I_{1}}=R_{1}+R_{3}$
 $R_{21}=\frac{I_{1}R_{3}}{I_{2}}=R_{3}$
 ---

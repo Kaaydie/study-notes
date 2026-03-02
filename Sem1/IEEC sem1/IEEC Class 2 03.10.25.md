@@ -1,5 +1,5 @@
 Ex.1 
-![[Pasted image 20251103102703.png]]
+![[ToLC sem1/Pasted image 20251103102703.png]]
 ICCL
 
 $$
@@ -32,7 +32,7 @@ OHM's L. (ohms law)
 Data: $U_{1},U_{2},R,R_{2}$
 Unkown vars: $\underline{U_{out}}=?$
 $I_{1},I_{2},I,U_{R_{1}},U_{R_{2}}$ 
-![[Pasted image 20251103105920.png]]
+![[ToLC sem1/Pasted image 20251103105920.png]]
 
 
 
@@ -70,9 +70,9 @@ Idea 1) R=0Ω - Short circuit (2 resistors) cheaper?
 Idea 2) $R_{2}\to ∞$ - open circuit (1 resistor)
 
 .1. Verification
-![[Pasted image 20251103111500.png]]
+![[ToLC sem1/Pasted image 20251103111500.png]]
 2.Verification
-![[Pasted image 20251103111934.png]]
+![[ToLC sem1/Pasted image 20251103111934.png]]
 $$
 \begin{align}
  & U_{1}-U_{R}-U_{OUT}=0 \\
@@ -85,10 +85,10 @@ $$
 \end{align}
 $$
 HOMEWORK: 
-![[Pasted image 20251103112358.png]]
+![[ToLC sem1/Pasted image 20251103112358.png]]
 
 ---
 Ex.4 Find value of current I
 a perfect short circuit is a 2 terminal element where voltage is always 0 regardless of current
 resistor=0Ω equvilient to short circuit
-![[Pasted image 20251103114325.png]]
+![[ToLC sem1/Pasted image 20251103114325.png]]

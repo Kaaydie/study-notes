@@ -12,7 +12,7 @@ $F=\sum(0000,0001,0011,0100,0101,1000,1010,1100)_{abcd}$
 | 11  | 1   |     |     |     | 12  |
 | 10  | 1   |     |     | 1   | 8   |
 |     | 0   | 1   | 3   | 2   |     |
-![[Pasted image 20251104143305.png]]
+![[git-sync/Sem1/ToLC sem1/Pasted image 20251104143305.png]]
 $F=\bar{c}\bar{d}+\bar{a}\bar{c}+\bar{a}\bar{b}d+a\bar{b}\bar{d} \ \ \ \text{/demorgan theorem}$
 $F=\overline{\overline{\bar{c}\bar{d}+\bar{a}\bar{c}+\bar{a}\bar{b}d+a\bar{b}\bar{d}}}=$
 $=\overline{\bar{c}\bar{d}}\cdot \overline{\bar{a}\bar{c}}\cdot \overline{\bar{a}\bar{b}d}\cdot \overline{a\bar{b}\bar{d}}$
@@ -35,12 +35,12 @@ $= \overline{\overline{\overline{c+d}+\overline{a+c}+\overline{a+b+\bar{d}}+\ove
 $F=(\bar{a}+\bar{d})·(\bar{b}+\bar{c})·(a+\bar{c}+d)$
 $F=¬¬(\bar{a}+\bar{d})·¬¬(\bar{b}+\bar{c})·¬¬(a+\bar{c}+d)=$
 $=\overline{\overline{\overline{a·d}·\overline{b·c}·\overline{\bar{a}·c·\bar{d}}}}$
-![[Pasted image 20251104145316.png]]
+![[git-sync/Sem1/ToLC sem1/Pasted image 20251104145316.png]]
 
 ---
 $F=\overline{\overline{(¬a+¬b)(¬b+¬c)(a+¬c+d)}}$
 $=\overline{\overline{\bar{a}+\bar{d}}+\overline{\bar{b}+bar}+\overline{\bar{b}+\bar{c}+d}}$
-![[Pasted image 20251104145950.png]]
+![[git-sync/Sem1/ToLC sem1/Pasted image 20251104145950.png]]
 
 ---
 ## Translate to HEX

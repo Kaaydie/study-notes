@@ -1,6 +1,6 @@
 # Superposition principle
 ## Ex.1
-![[Pasted image 20251117101828.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251117101828.png]]
 $$
 \begin{align}
  & I=\frac{U}{R}=\frac{0V}{0Ω}=\frac{0}{0}A??? \\
@@ -23,7 +23,7 @@ $$
  & I=\underbrace{ I^{I} }_{ E }+\underbrace{ I^{II} }_{ J }=0.75A+0.25A=1A
 \end{align}
 $$
-![[Pasted image 20251117102655.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251117102655.png]]
 
 ---
 # Incremental analysis (Linear)
@@ -58,7 +58,7 @@ $$
  & =0.28A
 \end{align}
 $$
-![[Pasted image 20251117104250.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251117104250.png]]
 
 ---
 ## Ex.2
@@ -85,7 +85,7 @@ $$
  & \Delta J=80mA
 \end{align}
 $$
-![[Pasted image 20251117110338.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251117110338.png]]
 
 ---
 ## Ex.3 
@@ -104,7 +104,7 @@ $$
  & =0.3·20V=6V
 \end{align}
 $$
-![[Pasted image 20251117111153.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251117111153.png]]
 
 ---
 

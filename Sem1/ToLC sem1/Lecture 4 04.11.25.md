@@ -1,5 +1,5 @@
 ## Incompletly specified functions
-![[Pasted image 20251104084351.png]]
+![[git-sync/Sem1/ToLC sem1/Pasted image 20251104084351.png]]
 $$
 \begin{align}
  & x_{2}x_{1}=01 \\

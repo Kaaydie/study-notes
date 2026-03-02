@@ -34,7 +34,7 @@ $U_{1}=0$
 $I_{2}=0$
 
 # Lecture 6 Analysis of complex electric circuit (Nodal analysis method)
-![[Pasted image 20251125131839.png]]
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251125131839.png]]
 we formulate (node count -1 ) equasions
 Ⓐ $I_{5}-I_{1}-I_{6}=0$
 Ⓑ $I_{1}+I_{4}-I_{2}-0$

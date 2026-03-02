@@ -1,4 +1,4 @@
-![[Pasted image 20251014135530.png]]A small 1.5-volt Alkine (AA) battery has a nominal life of 1,2WH.
+![[git-sync/Sem1/IEEC sem1/Pasted image 20251014135530.png]]A small 1.5-volt Alkine (AA) battery has a nominal life of 1,2WH.
 For how many hours will it power a calculator that draws a 16mA current
 
 $1.2Wh = 1.5 * 16*10^{-3} *t$
