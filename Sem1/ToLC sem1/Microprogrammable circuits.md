@@ -1,4 +1,4 @@
-![[IMG_20260127_090024.jpg]]
+![[git-sync/Photos/IMG_20260127_090024.jpg]]
 N=L+S
 M=K+S
 S=N-L=M-K

@@ -466,7 +466,7 @@ P1
 P2
 
 shaded is for JK only
-![[IMG_20260113_153315.jpg]]
+![[git-sync/Photos/IMG_20260113_153315.jpg]]
 for t flip flop
 T1 rows with bit Q1 invert
 T0 rows with bit Q0 invert

@@ -1,6 +1,10 @@
 Effective value
+
+
 (rms - root means square)
 $\boxed{I_{sk}=I_{rms}\overbrace{ = }^{ df }\sqrt{ \frac{1}{T}\int ^{t_{0}+T}_{t_{0}}i^{2}(i) dt}}$
+simpler formula for sine only
+$\frac{u}{\sqrt{ 2 }}$
 
 $f=\frac{1}{T}$
 

@@ -1,6 +1,6 @@
 - asynchronous counters (neither asynchronous nor synchronous sequential circuits)
 - synchronous counters (specific cases of synchronous sequential circuits)
-![[IMG_20260120_093357.jpg]]
+![[git-sync/Photos/IMG_20260120_093357.jpg]]
 
 T flip flop map 
 T1 invert bits with Q1=1
