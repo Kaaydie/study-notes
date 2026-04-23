@@ -14,9 +14,11 @@ Tekst o swoim sąsiedzie
 
 ![[Pasted image 20260326140045.png]]
 z
+
 ---
+
 jaka godzina
-Wie spät ist es? jak jest późmo
+Wie spät ist es? jak jest późno
 Wie viel Ihr ist es?
 jest godzina am/pm
 
@@ -118,3 +120,13 @@ Morgens isst man Frühstück
 
 homework
 co się pije w różnych krajach
+
+
+![[Pasted image 20260409144954.png]]
+Dienstag
+es gibt einen termin
+un vier nach 10 es ist da Treffent mit Frau Ogashi
+
+HOMEWORK
+Napisać jakie są terminy w całym tygodniu
+na podstawie tabelki
