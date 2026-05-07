@@ -46,6 +46,7 @@ jeżeli czasownik kończy się
 ge-arbait-==et== (t,d,chn,ffn,tm)
 
 Nieregularne:
+ta tabela chyba nie potrzebna
 
 | Infinitiv                       | Präteritum | Partizip II        |
 | ------------------------------- | ---------- | ------------------ |
@@ -166,4 +167,52 @@ Nieregularne:
 | wollen – chcieć                 | wollte     | gewollt            |
 | ziehen – ciągnąć                | zog        | gezogen            |
 | zwingen – zmuszać               | zwang      | gezwungen          |
-git
+
+sein:
+-ruch z przemieszczeniem
+-zmiana stanu (urodzić się/umierać/przebudzić się/zasypiać) 
+gebärnen->geboren|s
+Ich bin am 1 Januar in ... geboren 
+-luźnie - sein,
+Ich bin in Deutschland gewesen - I was in germany
+werden - wstawać/zostawać
+Ich bin Ingenieur geworden - am engnineer 
+bleiben- zostać/pozostać
+Was ist passiert? - co się stało
+
+HOMEWORK
+zrobić kartę pracy chyba
+Ich bin am 3 october 200 in zabrze geboren
+
+Na prezentacje ustną opis dnia w czasie przeszłym
+
+![[Pasted image 20260430142558.png]]
+
+
+![[Pasted image 20260430142517.png]]
+
+![[Pasted image 20260430142620.png]]
+
+![[680233212_852151697205615_3715226275703026505_n.jpg]]
+1. wast hast du gernern 
+sein - war - gewesen
+
+ich bin
+du bist
+er/sie/es ist
+wir sind
+ihr seid
+sie/Sie sind
+
+perfect
+ich war
+du warst
+er/sie/es war
+wir waren
+ihr wart
+sie/Sie waren
+
+HOMEWORK
+karty pracy zrobić
+i to
+![[676651294_953628437413577_5190405672609339336_n.jpg]]
