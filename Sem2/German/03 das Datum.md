@@ -194,7 +194,7 @@ Na prezentacje ustną opis dnia w czasie przeszłym
 ![[Pasted image 20260430142620.png]]
 
 ![[680233212_852151697205615_3715226275703026505_n.jpg]]
-1. wast hast du gernern 
+
 sein - war - gewesen
 
 ich bin
@@ -216,3 +216,8 @@ HOMEWORK
 karty pracy zrobić
 i to
 ![[676651294_953628437413577_5190405672609339336_n.jpg]]
+
+---
+
+![[Pasted image 20260507143936.png]]
+![[Pasted image 20260507143944.png]]
