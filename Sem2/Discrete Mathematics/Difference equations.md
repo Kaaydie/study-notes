@@ -162,3 +162,10 @@ $C_{1}=-1-C_{2}-\frac{32}{9}=-\frac{41}{9}+\frac{16}{15}=\frac{-2·5}{45}+\frac{
 
 Answer:
 $S_{n}=-\frac{157}{45}·(-1)^{n}-\frac{16}{15}·4^{n}-\frac{1}{6}n^{2}-\frac{11}{18}n+\frac{32}{9}$
+
+---
+
+# 6a)
+$f_{0}=2$
+$\underbrace{ \Delta f_{n} }_{ f_{n+1}-f_{n} }=3f_{n}+1$
+delta means the increment betwen 2 terms
