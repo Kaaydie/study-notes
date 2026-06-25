@@ -221,3 +221,113 @@ i to
 
 ![[Pasted image 20260507143936.png]]
 ![[Pasted image 20260507143944.png]]
+
+den -> szyk prosty
+weil -> szyk końcowyh
+dess -> szyk przestawny
+
+zdania z weil
+weil ich czas miejsce
+ich besuche im somar begin dier ist deustch lernen
+Dla tego - Deshalb
+
+
+![[Pasted image 20260611143950.png]]
+1. In seiner Freizeit trifft mein Bruder Freunde und spielt Gitarre
+2. Herr Keller ist gestern nach Berlin gefahren  
+3. Sie englishe spiele su gut Frage
+4. Herr Keller arbaitet im firma SunTex
+5. An welcher Fakultät studiert Ihre Schwester?
+6. Wie alt hast du ihr kinder
+7. Mein hobbys ist girate spiele und Fußball spiele
+8. Um wie  semester ihr ist
+9. Mein Forschungsbereich is macro
+10. wer er werden möchte diplom engeneer
+11. Wonen deinen liebien in den Goethego strasen 17
+12. Wo ist Firma  Hauptsitz 
+13. Mein Schwester its verheiratet mit Peter
+14. Welche Fremdsprachen sprichst du? Ich spiele englishe suhr gut und deutch gut 
+15. Wann wurdest du geboren? Ich 7 Februar gebore
+16. Gehst du heute ins Kino?
+17. Herr Müller flugzug nach Paris
+18. Wie haben pech Wie auto ist kaput
+19. Was its das. Das ist externel HDD
+20. Was ist  das. Das ist kabellos  maus
+21. Du drinkest caffe. Nein ich nich drinke caffe
+22. Mein brother kauft noin mobilephone 
+![[Pasted image 20260611143958.png]]
+
+
+
+
+![[Pasted image 20260611144050.png]]
+w domu dokończyć to coś
+
+18.06 Powtarzanie do Kolokwium
+25.06 Kolokwium
+
+zagadnienia w tym semestrze
+czasowniki modalne
+czas zegarowy
+określenia czasu
+daty 
+Heute haben 
+czas perfekt (jedno ćwiczenie)
+zdania weil dessen
+
+pytania na test
+![[Pasted image 20260618141714.png]]![[Pasted image 20260618142202.png]]
+
+6. hatte er am montag zeit. Nein am montag er hatte kaine zeit
+7. geist du am wohen ende ins kino
+8. strunzeren deutchunterisch hatter wir donnerstags
+9. Ich habe im april meiner geburstag
+10. Im wershien monat hast deinen geburstag
+11. Im sommar  fährt und spielt foosball
+12. Ihre ho
+13. weil wilfst du jeden tag?
+14. jeden tag ich helfe meiner oma und meiner oma
+15. Ich durf kaine chockolatte essen
+16. t
+17. In mainer freitzeit trefe ich freunden und ich spiele gitare
+18. Mein mutter kan sehr gut kuchen und tantzen
+19. n
+20. ich hängen das bild an die Wand. Das bild hänght an der Wand
+21. Muscheter ihr in der park gehen
+22. Ich wohne in einer Wohnung im vierten Stouk
+23. Must du am mitwoh nach berlin fliegen
+24. Er muss hoite fahren. Sie viel in Vien wohen
+25. n
+26. Wie kommen ihr Womit zur Uni
+
+dass - że
+finden - znaleźć, sądzić/uważać
+Ich finde
+du findest
+er/sie/es - findet
+ihr findet
+
+Ich finde Deutsch leicht - I find german easy
+Ich finde Fremdsprachen wichtig - uważam że języki obce są ważne
+Ich finde dein film interesant
+Ich finde Wien toll.
+wissen - wiedzieć
+1 weiß
+2 weißt
+3 weiß
+
+1 wissen
+2 wisst
+3 wissen
+
+Ich weiß das Deutsch leicht ist -wiem że niemiecki jest łatwy
+
+Ich weiß das Fremdsprachen wichtig - wiem że języki obce są ważne
+
+Ich weiß dass man in Wien viel besichtigen - wiem że w Wiedniu można dużo zwiedzić
+
+man kann - można
+
+Ich finden  dass er ingenieur ist
+
+homework

@@ -1,4 +1,4 @@
-generating function method
+	generating function method
 a) $g_{n+1}=g_{n}+2^{n+1},g_{0}=-1$
 
 $G(s)=g_{0}+g_{1}s+g_{2}s^{2}+\dots$
