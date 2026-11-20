@@ -1,0 +1,1 @@
+prove charge between 2 plates of capacitor with oposite charges
